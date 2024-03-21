@@ -26,6 +26,7 @@ You can solve it Locally
 
 ###### and you should notice that output is a binary file that contain encrypted data with secret-maker.c -  we should decrypt it by reversing secret-maker.c 
 
+![](../Screenshot/P4.png)
 
 ### Step 2 : Analyze the Secret-maker.c After rename variables
 
@@ -53,7 +54,7 @@ so know we know that the program does a Xor between the input and some stuf addi
 ###### and this is the Script : 
 
 
-![](../Screenshot/P4.png)
+![](../Screenshot/P6.png)
 
 
 
