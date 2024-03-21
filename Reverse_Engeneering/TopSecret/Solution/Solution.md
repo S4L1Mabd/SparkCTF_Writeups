@@ -4,7 +4,7 @@
 
 ### Infos About challenge : 
 
-![](Screenshot/P1.png)
+![](../Screenshot/P1.png)
 
 ### They are 12 Teams solved this challenge from 100 Teams
 You can solve it Locally
@@ -17,11 +17,11 @@ You can solve it Locally
 ### step 1 : Open The secret-maker.c and output file
 
 
-![](Screenshot/P2.png)
+![](../Screenshot/P2.png)
 
 ##### You notice that the file.c has a random name variable to have a clean work you should rename the variables and functions 
 
-![](Screenshot/P3.png)
+![](../Screenshot/P3.png)
 
 
 ###### and you should notice that output is a binary file that contain encrypted data with secret-maker.c -  we should decrypt it by reversing secret-maker.c 
@@ -53,7 +53,7 @@ so know we know that the program does a Xor between the input and some stuf addi
 ###### and this is the Script : 
 
 
-![](Screenshot/P4.png)
+![](../Screenshot/P4.png)
 
 
 
@@ -61,7 +61,7 @@ so know we know that the program does a Xor between the input and some stuf addi
 
 
 
-![](Screenshot/P5.png)
+![](../Screenshot/P5.png)
 
 
 ### flag:
