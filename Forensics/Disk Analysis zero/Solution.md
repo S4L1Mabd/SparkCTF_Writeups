@@ -4,7 +4,7 @@
 
 ### Infos About challenge : 
 
-![](/Screenshot/P1.png)
+![](Screenshot/P1.png)
 
 ### They are 18 Teams solved this challenge from 100 Teams
 
@@ -22,7 +22,7 @@
 
 ### step 1 : Open The disk Image in FTK Imager
 
-![](/Screenshot/P2.png)
+![](Screenshot/P2.png)
 
 #### Now you notice that the disk in named G:\mahmoud
 #### Or check the folder Users in the disk you found Mahmoud 
@@ -37,11 +37,11 @@
 
 Users/Mahmoud/Documents  
 
-![](/Screenshot/P3.png)
+![](Screenshot/P3.png)
 
-![](/Screenshot/P4.png)
+![](Screenshot/P4.png)
 
-![](/Screenshot/P5.png)
+![](Screenshot/P5.png)
 
 and the file is named secret.tc 
    
