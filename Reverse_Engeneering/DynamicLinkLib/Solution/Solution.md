@@ -23,14 +23,16 @@
 ##### It is tool to read and decompile .dll file 
 
 
+##### You notice that the Seek_help.dll has a function Flagy.main
 ![](Screenshot/P2.png)
 
-##### You notice that the Seek_help.dll has a file Flagy.dll  
+###### when we click on it we will have the assembly code of Flagy.dll 
+
 
 ![](Screenshot/P3.png)
 
 
-###### when we click on it we will have the assembly code of Flagy.dll 
+
 
 ###### You can notice that we have main function that scan input (string)  
 
