@@ -30,7 +30,7 @@ You can solve it Locally
 
 ### Step 2 : Analyze the Secret-maker.c After rename variables
 
-###### After analyzing : I conclude that program do this : 
+###### After analyzing : I conclude that program does this : 
 
     1-It reads a file specified as a command-line argument.
     2-It checks if the file exists and can be opened for reading.
