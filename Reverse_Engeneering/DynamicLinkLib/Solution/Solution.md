@@ -36,7 +36,7 @@
 
 ###### You can notice that we have main function that scan input (string)  
 
-![](Screenshot/P5.png)
+
 
 
 ###### and  this main function called another function called justdoit and passe to it the input (string), so click on it to be redirected to the assembly code of this function 
