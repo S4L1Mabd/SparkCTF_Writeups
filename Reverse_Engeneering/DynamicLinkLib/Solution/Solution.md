@@ -60,9 +60,9 @@
 ![](Screenshot/P5.png)
 
 ### Step 3 : Now time of scripting XD : 
-#### We can this data in our Hand : 
-##### 1- Length of our input and output is 24 
-##### 2- the output after doing XORing the Input with 24 is "Ol}nwgXPPOC(NYCRSHCOSCZIRREa"
+#### We Have this data in our Hand : 
+##### 1- Length of our input and output is 28
+##### 2- the output after doing XORing the Input with 28 is "Ol}nwgXPPOC(NYCRSHCOSCZIRREa"
 ##### 3- we should convert each caracter to ASCII code 
 
 ###### our script should : 
